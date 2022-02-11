@@ -1,0 +1,11 @@
+.single {
+  background-color: rgb(121, 115, 115);
+  border-bottom: 5px solid rgb(121, 115, 115);
+  transition: 0.2s;
+  display: inline-block;
+  padding: 10px;
+}
+
+.single:hover {
+  border-bottom: 5px solid green;
+}
